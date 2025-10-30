@@ -74,8 +74,7 @@ Hacé clic en la imagen para abrir el proyecto:
 - Servo (marrón)	GND
 - HC-SR04 TRIG	D9
 - HC-SR04 ECHO	D10
-- LED	D7
-- Buzzer	D6
+
 
 ## Captura de la Interfaz
 
