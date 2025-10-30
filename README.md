@@ -1,7 +1,16 @@
 # LICEO AERONÁUTICO MILITAR  
 ## PROMOCIÓN 46 – PROYECTO SONAR
 
-![Liceo Aeronáutico Militar - Encabezado](./8c0b0588-dedc-46f6-8166-4742f694d874.png)
+<p align="center">
+  <img src="./images.png" alt="Insignia FAA" width="180"/>
+  <img src="./Flag_of_Argentina.svg.png" alt="Bandera Argentina" width="240"/>
+  <img src="./LAM_Cuerpo_de_Cadetes_1982_FAA_parche.png" alt="Escudo LAM" width="180"/>
+</p>
+
+<h1 align="center" style="color:#00FF00;">LICEO AERONÁUTICO MILITAR</h1>
+<h2 align="center" style="color:#00FF00;">PROMOCIÓN 46</h2>
+<p align="center"><b>GRUPO:</b> CAD II AÑO Cicolini, CAD II AÑO Franchi, CAD II AÑO Méndez y CAD II AÑO Santacroce</p>
+
 
 ---
 
