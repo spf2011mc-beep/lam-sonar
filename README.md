@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="/img/images.png" alt="Insignia FAA" width="180"/>
-  <img src="/img/Flag_of_Argentina.svg.png" alt="Bandera Argentina" width="240"/>
+  <img src="/img/Flag_of_Argentina.svg.png" alt="Bandera Argentina" width="180"/>
   <img src="/img/LAM_Cuerpo_de_Cadetes_1982_FAA_parche.png" alt="Escudo LAM" width="180"/>
 </p>
 
