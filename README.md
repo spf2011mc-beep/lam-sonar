@@ -40,3 +40,64 @@ Arduino → envía “ángulo,distancia” por COM3
 Python (sonar_realtime.py) → muestra radar + sonidos
 ↓
 Servo → sincronizado con el barrido visual
+🧩 Código Arduino
+El sketch principal (sonar1.ino) envía los datos al puerto serie en formato ángulo,distancia y controla el servo y los indicadores:
+
+cpp
+Copiar código
+Serial.print(angle);
+Serial.print(",");
+Serial.println(distance);
+💻 Código Python
+El script sonar_realtime.py:
+
+Lee los datos reales del Arduino vía PySerial.
+
+Renderiza el radar con Matplotlib y sonidos tipo sonar.
+
+Muestra en pantalla la interfaz del LAM SONAR – REALTIME con insignias e información del grupo.
+
+🧱 Conexiones Básicas
+Elemento	Pin Arduino UNO
+Servo (naranja)	D3 (señal PWM)
+Servo (rojo)	5V
+Servo (marrón)	GND
+HC-SR04 TRIG	D9
+HC-SR04 ECHO	D10
+LED	D7
+Buzzer	D6
+
+📸 Captura de la Interfaz
+
+🚀 Ejecución
+1️⃣ Subir el sketch al Arduino
+cpp
+Copiar código
+#include <Servo.h>
+Servo servoMotor;
+2️⃣ Ejecutar el radar desde consola
+bash
+Copiar código
+python sonar_realtime.py
+3️⃣ Resultado esperado
+Línea verde de barrido activo
+
+Puntos rojos indicando detecciones
+
+Sonidos de eco al detectar obstáculos
+
+Información lateral con rango y bearing
+
+🎥 Demostración
+🎬 Ver video demostrativo en YouTube
+(reemplazar por el enlace final del video de presentación del grupo)
+
+🏫 Créditos
+Proyecto educativo del Liceo Aeronáutico Militar – Promoción 46
+Desarrollado con fines académicos y de divulgación técnica.
+
+Docente guía: Santiago Franchi
+Materia: Tecnología y Programación – LAM 2025
+
+📁 Licencia
+Este proyecto es de uso educativo y libre distribución bajo licencia MIT.
