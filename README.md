@@ -79,16 +79,16 @@ python sonar_realtime.py
 - Sonidos de eco al detectar obstáculos
 - Información lateral con rango y bearing
 
-##Demostración
+## Demostración
 - Ver video demostrativo en YouTube
 
 
-##Créditos
+## Créditos
 Proyecto educativo del Liceo Aeronáutico Militar – Promoción 46
 Desarrollado con fines académicos y de divulgación técnica.
 
 Docente guía: Profesor Emiliano Juan
 Materia: Tecnología II Año – LAM 2025
 
-##Licencia
+## Licencia
 Este proyecto es de uso educativo y libre distribución bajo licencia MIT.
