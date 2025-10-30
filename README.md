@@ -80,7 +80,10 @@ python sonar_realtime.py
 - Información lateral con rango y bearing
 
 ## Demostración
-- Ver video demostrativo en YouTube
+- ## 🎥 Video de Demostración
+
+<video src="LAM-PROM46.SONAR.mp4" controls width="600"></video>
+
 
 
 ## Créditos
