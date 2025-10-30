@@ -82,10 +82,14 @@ python sonar_realtime.py
 - Información lateral con rango y bearing
 
 
+<h2 align="center">Video de Demostración</h2>
 
-## Video de Demostración
+<p align="center">
+  <a href="https://youtu.be/TNBWvrjQFEQ" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.youtube.com/vi/TNBWvrjQFEQ/0.jpg" alt="Video del radar LAM" width="600">
+  </a>
+</p>
 
-[![Ver video del radar LAM](https://img.youtube.com/vi/TNBWvrjQFEQ/0.jpg)](https://youtu.be/TNBWvrjQFEQ)
 
 
 ## Créditos
