@@ -81,13 +81,11 @@ python sonar_realtime.py
 - Sonidos de eco al detectar obstáculos
 - Información lateral con rango y bearing
 
-## Demostración
-
-- Video de Demostración
-
-[Ver video en tamaño completo](LAM-PROM46-SONAR.mp4)
 
 
+## Video de Demostración
+
+[![Ver video del radar LAM](https://img.youtube.com/vi/TNBWvrjQFEQ/0.jpg)](https://youtu.be/TNBWvrjQFEQ)
 
 
 ## Créditos
