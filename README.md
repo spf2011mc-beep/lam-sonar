@@ -81,7 +81,7 @@ Hacé clic en la imagen para abrir el proyecto:
 <p align="center">
   <img src="/img/Arduino01.jpeg" alt="Vista frontal del Arduino LAM SONAR" width="250" style="margin:10px;">
   <img src="/img/Arduino02.jpeg" alt="Conexión del HC-SR04 y servo" width="250" style="margin:10px;">
-  <img src="/img/Arduino03.jpeg.jpg" alt="Montaje completo del LAM SONAR" width="250" style="margin:10px;">
+  <img src="/img/Arduino03.jpeg" alt="Montaje completo del LAM SONAR" width="250" style="margin:10px;">
 </p>
 
 
