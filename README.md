@@ -115,8 +115,6 @@ python sonar_realtime.py
 ## Créditos
 Proyecto educativo del Liceo Aeronáutico Militar – Promoción 46
 Desarrollado con fines académicos y de divulgación técnica.
-
-Docente guía: Profesor Emiliano Juan
 Materia: Tecnología II Año – LAM 2025
 
 ## Licencia
