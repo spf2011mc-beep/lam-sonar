@@ -55,7 +55,7 @@ Servo → sincronizado con el barrido visual
 
 - Muestra en pantalla la interfaz del LAM SONAR – REALTIME con insignias e información del grupo.
 
-##Conexiones Básicas
+## Conexiones Básicas
 - Elemento	Pin Arduino UNO
 - Servo (naranja)	D3 (señal PWM)
 - Servo (rojo)	5V
@@ -65,7 +65,7 @@ Servo → sincronizado con el barrido visual
 - LED	D7
 - Buzzer	D6
 
-##Captura de la Interfaz
+## Captura de la Interfaz
 
 **Ejecución**
 1. Subir el sketch al Arduino
