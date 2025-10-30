@@ -91,7 +91,6 @@ Hacé clic en la imagen para abrir el proyecto:
 <p align="center">
   <img src="/img/Arduino04.jpeg" alt="Vista frontal del montaje" width="200" style="margin:10px;">
   <img src="/img/Arduino05.jpeg" alt="Sensor ultrasónico y servo" width="250" style="margin:10px;">
-  <img src="/img/Arduino06.jpeg" alt="Sensor ultrasónico y servo" width="250" style="margin:10px;">
 </p>
 
 
