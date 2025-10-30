@@ -80,13 +80,13 @@ Hacé clic en la imagen para abrir el proyecto:
 
 <!-- Imagen vertical arriba -->
 <p align="center">
-  <img src="/img/Arduino03.jpg" alt="Detalle de conexión" width="250">
+  <img src="/img/Arduino03.jpeg" alt="Detalle de conexión" width="250">
 </p>
 
 <!-- Imágenes horizontales abajo -->
 <p align="center">
-  <img src="/img/Arduino01.jpg" alt="Vista frontal del montaje" width="250" style="margin:10px;">
-  <img src="/img/Arduino02.jpg" alt="Sensor ultrasónico y servo" width="250" style="margin:10px;">
+  <img src="/img/Arduino01.jpeg" alt="Vista frontal del montaje" width="250" style="margin:10px;">
+  <img src="/img/Arduino02.jpeg" alt="Sensor ultrasónico y servo" width="250" style="margin:10px;">
 </p>
 
 
