@@ -3,11 +3,6 @@
 <p align="center">
   <b>GRUPO:</b> CAD II AÑO Cicolini, CAD II AÑO Franchi, CAD II AÑO Méndez y CAD II AÑO Santacroce
 </p>
-<p align="center">
-  <img src="/img/images.png" alt="Insignia FAA" style="height:120px; width:auto; margin-right:10px;">
-  <img src="/img/Flag_of_Argentina.svg.png" alt="Bandera Argentina" style="height:120px; width:auto; margin:0 10px;">
-  <img src="/img/LAM_Cuerpo_de_Cadetes_1982_FAA_parche.png" alt="Escudo LAM" style="height:120px; width:auto; margin-left:10px;">
-</p>
 
 <p align="center">
   <img src="/img/images.png" alt="Insignia FAA" style="height:120px; width:auto; margin-right:30px;">
@@ -87,9 +82,11 @@ python sonar_realtime.py
 - Información lateral con rango y bearing
 
 ## Demostración
-- ## 🎥 Video de Demostración
 
-<video src="LAM-PROM46-SONAR.mp4" controls width="600"></video>
+- Video de Demostración
+
+[Ver video en tamaño completo](./LAM-PROM46-SONAR.mp4)
+
 
 
 
