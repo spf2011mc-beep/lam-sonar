@@ -55,6 +55,18 @@ Servo → sincronizado con el barrido visual
 
 - Muestra en pantalla la interfaz del LAM SONAR – REALTIME con insignias e información del grupo.
 
+
+## Diseño y Simulación en Tinkercad
+
+El modelo completo del **LAM SONAR – Promoción 46** se encuentra disponible para visualizar y editar en Tinkercad.  
+Hacé clic en la imagen para abrir el proyecto:
+
+[![Abrir simulación en Tinkercad](/img/LAM-Sonar.png)](https://www.tinkercad.com/things/86cHAaz8mhI-lae-sonar/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard)
+
+🔗 **Enlace directo:** [Ver en Tinkercad](https://www.tinkercad.com/things/86cHAaz8mhI-lae-sonar/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard)
+
+
+
 ## Conexiones Básicas
 - Elemento	Pin Arduino UNO
 - Servo (naranja)	D3 (señal PWM)
