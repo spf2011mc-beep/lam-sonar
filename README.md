@@ -85,7 +85,7 @@ python sonar_realtime.py
 
 - Video de Demostración
 
-[Ver video en tamaño completo](./LAM-PROM46-SONAR.mp4)
+[Ver video en tamaño completo](LAM-PROM46-SONAR.mp4)
 
 
 
