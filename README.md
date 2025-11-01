@@ -129,6 +129,17 @@ python sonar_realtime.py
 </p>
 
 
+<p align="center">
+  <a href="https://youtu.be/TNBWvrjQFEQ">
+    <img src="https://img.youtube.com/vi/TNBWvrjQFEQ/0.jpg" alt="Video radar" width="600">
+  </a>
+</p>
+
+<p align="center">
+  - <a href="https://youtube.com/shorts/XJNV1UTarGs" target="_blank" rel="noopener noreferrer">
+  Ver en YouTube en pantalla completa
+  </a>
+</p>
 
 
 
