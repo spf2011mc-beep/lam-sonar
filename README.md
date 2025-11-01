@@ -94,7 +94,7 @@ Hacé clic en la imagen para abrir el proyecto:
 </p>
 <p align="center">
   <img src="/img/LAM_Foto_Sonar.jpeg" alt="Proyecto LAM" width="200" style="margin:10px;">
-  <img src="/img/LAM_Sonar_Pins.jpeg" alt="Pins Arduino" width="250" style="margin:10px;">
+  <img src="/img/LAM_Sonar_Pins.jpeg" alt="Pins Arduino" width="200" style="margin:10px;">
 </p>
 
 
